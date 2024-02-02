@@ -8,6 +8,8 @@ Given a stock ticker calls external Polygon API to get statistics on stock in 20
 
 This is a single-page application (SPA) built with React.js and Ruby on Rails that allows users to input a stock ticker symbol and displays various metrics for the specified stock within the date range of 1/1/2023 to 12/31/2023. The app fetches data from the Polygon.io API to retrieve stock market data.
 
+![](StockTickerScreenshot.png)
+
 ## Features
 
 - Input field to enter a stock ticker symbol
